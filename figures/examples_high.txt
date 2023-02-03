@@ -1,0 +1,374 @@
+Id 13 Politeness% 62 Size 1
+$ 62 thanks
+ -
+
+Id 36 Politeness% 43 Size 1
+$ 43 Hello Guys... no Django chat room here?
+ -
+
+Id 40 Politeness% 44 Size 1
+$ 44 Hey call me a boomer but I have been using geany as my text editor. Does anyone have any other suggestions?
+ -
+
+Id 41 Politeness% 62 Size 1
+$ 62 Hello everyone i am new here not to python(covered till oops) but new to django what would you recommend the best resource to learn Django for a beginner??  
+ -
+
+Id 46 Politeness% 42 Size 1
+$ 42 > Hey everyone,> So I'm learning python and i don't understand a part of the code on this online lesson.> ```python> a = 12> b = 3> > for i in range(1 a // b):> print(i)> ```> Can someone explain it please?@mike1231234 This print will print 0,1,2,3as 12//3 = 4'// operator returns only the integer part of the division 
+result.In this case int part of 4 which is 4 itself.Learn more about operators in the below link.https://mostlypy.com/python/pythonbasicstutorial/5operators/     
+ -
+
+Id 60 Politeness% 43 Size 3
+$ 43 hello?
+$ 43 hey is anyone working on machine learning projects
+$ 22 it is a short script and my first one not from the python crash course book
+ -
+
+Id 61 Politeness% 46 Size 1
+$ 46 hello! I have a python script which runs in pycharm but when I attempt ro run it I get a NameError which is confusing me. would anyone be able to assist me in tracking this down?
+ -
+
+Id 69 Politeness% 48 Size 1
+$ 48 Hi I need a quick tip! I need to initialize an array with 1000 int elements any suggestions on syntax?
+ -
+
+Id 89 Politeness% 49 Size 1
+$ 49 Hey guys does anyone have experience with Siamese networks? I’d like to verify that my approach to solving a problem is correct
+ -
+
+Id 95 Politeness% 56 Size 1
+$ 56 Hey so say I have a CSV I want to use to populate objects from a class list and create variables to access all the objects something like u234 = UserRR(args 
+from CSV) where line determines # behind u how would I write that in the most simple possible way?
+ -
+
+Id 113 Politeness% 86 Size 1
+$ 86 Hi guys! I am looking to get into programming and was wondering if anyone can direct me to a great place to start. I have looked into Udemy and Codeacademy and hear both offer great services. Although the reviews on these do help I am looking for some personal reviews that has helped you all get started in the programming world. Thanks again for all of the helpful advice!
+ -
+
+Id 117 Politeness% 43 Size 5
+$ 43 Hello?
+$ 43 Hello @Skep
+$ 43 hi
+$ 23 rare to see ves to come in and say hi :lemon_pleased:
+$ 17 `how to make image detection model using TENSORFLOW` ?
+ -
+
+Id 126 Politeness% 42 Size 2
+$ 43 hey guys can anyone help me translete a piece of code from c# to python
+$ 41 Probably better to go to a help channel or #toolsanddevops but could you screenshot the whole run config of the unitteet?(Ping me if you move)
+ -
+
+Id 130 Politeness% 63 Size 1
+$ 63 Thanks we can figure this out on our own
+ -
+
+Id 146 Politeness% 56 Size 1
+$ 56 Hey i've just completed my first big coursework project and have been learning how to use python for the past couple weeks just wondering if there's any project ideas people might have for a project that I could do in about 35 weeks would work on it for a couple of hours each day.
+ -
+
+Id 153 Politeness% 86 Size 1
+$ 86 Hey everyone just a quick question; is there a specific general chat I should be using when I'm just chatting around? Thanks!
+ -
+
+Id 169 Politeness% 43 Size 1
+$ 43 Hello someone knows any method for getting all the students name of a Hangouts meeting?
+ -
+
+Id 174 Politeness% 51 Size 1
+$ 51 Hi I wanted to get into programming.. so a friend of mine recommended to learn some basics about programming and some basic c++ before I learn a dynamic language (python) I was learning and practicing c++ for about 14 days I think i have gotten a basic understanding of c++ and was thinking of learning Python should i 
+practice more or just start learning pythonPs. I don't want to develop in c++ i intend to develop in python and other dynamic languages which I will learn in future
+ -
+
+Id 175 Politeness% 49 Size 1
+$ 49 > Hi I wanted to get into programming.. so a friend of mine recommended to learn some basics about programming and some basic c++ before I learn a dynamic language (python) I was learning and practicing c++ for about 14 days I think i have gotten a basic understanding of c++ and was thinking of learning Python should 
+i practice more or just start learning python> > Ps. I don't want to develop in c++ i intend to develop in python and other dynamic languages which I will learn in future@rdseed You don't need to bother with c++ if you have no intentions of using it python is much easier to pick up anyways
+ -
+
+Id 179 Politeness% 47 Size 1
+$ 47 hi,i am a beginner in python and i see there are podcast that talk about programming and even podcasts dedicated to python.i have never thought about podcasts and programming before.so my question is,are there podcasts that beginners can listen to?it is not my intention to learn the syntax or stuff like that but maybe i will learn some other general things about python or programming in python.are there podcasts good for beginners you could recommend?thank you
+ -
+
+Id 184 Politeness% 54 Size 2
+$ 86 Hey guys just started learning python for about a week. Is there a section in here for newbies who are also starting to learn. I think it would be helpful to have. Thanks
+$ 23 did you try `python3tk` ?
+ -
+
+Id 196 Politeness% 43 Size 1
+$ 43 hi guys is there any way to create an script that automatically log in on a .exe app?
+ -
+
+Id 217 Politeness% 59 Size 1
+$ 59 Hey everyone! A question that might not be fully related to python but still. I am developing a mobile app with kivy and was wondering what would be a good way to compile it for iOS/iPadOS without having a Mac.
+ -
+
+Id 226 Politeness% 42 Size 1
+$ 42 @.ȼ๏ʍ hey dude would you be able to fix up your name also just gotta throw on a nickname that uses normal ascii characters when you get the chance it would be appreciated so we can make sure you're easily mentionable no matter what client peeps are using. Feel free to check our nickname policy over here for some extra details: <https://pythondiscord.com/pages/rules#nicknamepolicy>
+ -
+
+Id 243 Politeness% 42 Size 1
+$ 42 Hey I study physics in the second semester and sometimes I want to simulate some stuff a random example would be pendular or mechanical waves or even build my own little physics engine. I would say I can the basics of Python and I really love to watch The Coding Train and how he visualizing and explaining things and this fancy I think he is doing it in JavaScript but I don't know if this is possible with Python as well is Python the way to go? Any advice?
+ -
+
+Id 246 Politeness% 57 Size 2
+$ 91 hey guys recently just started learning python. I am definitely a coding newbie. I have just finished a 5 hour tutorial on youtube as well as taking notes and jotting down tips. Would you guys recommend i try to hop into small projects or should i go through pythons actual tutorial so i don't have massive gaps in my knowledge. I just don't want to get stuck in tutorial purgatory where I'm just copying someone. Any input would be appreciated. Thanks.
+$ 23 no
+ -
+
+Id 250 Politeness% 56 Size 1
+$ 56 Nice graph stuff what pkg are you using for the graph objects or your own implementation of a graph?
+ -
+
+Id 254 Politeness% 43 Size 1
+$ 43 Hey can someone answer a quick question regarding searching a file for elements?
+ -
+
+Id 286 Politeness% 43 Size 1
+$ 43 hey guys did you setup django project as separe folder dev / prod having the same base?
+ -
+
+Id 296 Politeness% 48 Size 1
+$ 48 hello i am new to python. I just wanted to know how do i globalized a variable inside a function
+ -
+
+Id 300 Politeness% 52 Size 1
+$ 52 hi i need help to #deletedchannel maybe someone help me pls ?
+ -
+
+Id 310 Politeness% 43 Size 1
+$ 43 hello someone has alredy made the mootme challenges in programming part ?
+ -
+
+Id 322 Politeness% 41 Size 1
+$ 41 Hi guys! Do any of you guys know how to control discord with code?
+ -
+
+Id 348 Politeness% 44 Size 1
+$ 44 Hey new here how do I go about getting help with a question?
+ -
+
+Id 352 Politeness% 44 Size 2
+$ 26 I'm looking at the cpython repository. Aren't the standard library modules implemented in C?
+$ 62 @Deleted User thanks!
+ -
+
+Id 363 Politeness% 42 Size 1
+$ 42 hey guyz i am new to ML i have uninstall tensorflow 2.0.0 but when i do `pip show tensorflow` it shows that it exists
+ -
+
+Id 367 Politeness% 48 Size 1
+$ 48 hey guysa bit of an architectural question:does anyone has any idea how does instagram does the simulation of comments for recorded live videos? like if u go to a recorded live video and seek to any particular time the comments at that time will come in viewim trying to find what is the best way to do thatand how do i cache the data efficiently?so that i dont fetch again if user seeks to that particular time again?
+ -
+
+Id 368 Politeness% 52 Size 1
+$ 52 Hi everyone I'm currently trying to execute a NodeJS script with python. Specifically a function thats changing the code so only the function should be executed and not the whole script resulting in getting the altered code back. Does anyone know if there is a python module thats providing this functionality?
+ -
+
+Id 369 Politeness% 62 Size 1
+$ 62 thanks
+ -
+
+Id 378 Politeness% 47 Size 1
+$ 47 Hey @Smooth what is your expected output and what are you getting right now?
+ -
+
+Id 382 Politeness% 42 Size 4
+$ 83 Hi anybody with experience working with 3D environments with navigable vehicles in Python? Just need a point in the direction of some relevant libraries thanks
+$ 23 lol your name
+$ 23 They have it in their contacts
+$ 62 Thanks
+ -
+
+Id 386 Politeness% 47 Size 1
+$ 47 hi guysI have 3 lists and one string like this:a = ['a b c']b = [1 2 3 4 5]c = [10 11 14 15 16]string = buy'I need a list of dictionary like this:[{'a':1  b':10  c':'buy'},{'a':2  b':11  c':'buy'},{'a':3  b':14  c':'buy'},...]any idea how to do that?
+ -
+
+Id 432 Politeness% 47 Size 1
+$ 47 hello does anyone know why this returns only the first item in the list and not a random one. any help would be greatly appreciated. `word1 = [game3(),game1(),game2()]word2 =(random.choice(word1))print(word2)`
+ -
+
+Id 440 Politeness% 58 Size 1
+$ 58 Hey guys.... I need to build a dashboard which can be distributed independent of a server which hosts it... In the past I have made charts using Bokeh which 
+I could distribute as a single HTML file.. I am considering going this route again but also love what Dash can bring.. I have two questions  is Bokeh capable able of developing larger single HTML file dashboards without too much speed impact? And as far as I can see it's not possible to generate a single HTML file dashboard with Dash or did any of you succeed in this?
+ -
+
+Id 447 Politeness% 62 Size 1
+$ 62 Okay thanks!
+ -
+
+Id 451 Politeness% 41 Size 2
+$ 52 Hi may I ask if anyone is familiar with thinkscript here?
+$ 29 offtopic channels maybe?
+ -
+
+Id 455 Politeness% 52 Size 1
+$ 52 Hello im wonder if someone can point me to the right direction. im trying to find a channel were i can ask Python code related questions :akutaaWAVE:        
+ -
+
+Id 467 Politeness% 52 Size 1
+$ 52 Hey guys I have been coding for a week now and learning python and learned a couple of things now but my question is.. when should I stop learning and start 
+making projects? Should I keep learning everything in python.. or should I practice what I already know and if that’s the case what type of projects should I make?
+ -
+
+Id 476 Politeness% 44 Size 2
+$ 44 Hey I wanted to paste the telegram Forex signals that I have copied from their to Metatrader 4 so any body knows how get toward doing it with python automation?
+$ 44 Hey I wanted to paste the telegram Forex signals that I have copied from their to Metatrader 4 so any body knows how get toward doing it with python automation?
+ -
+
+Id 509 Politeness% 42 Size 1
+$ 42 hello guys im trying to make a chess game in python using classes but i dont knwo where to start
+ -
+
+Id 512 Politeness% 48 Size 1
+$ 48 > hi im new to python where do i get help@Chosen One help with what?
+ -
+
+Id 515 Politeness% 52 Size 1
+$ 52 Hi I was wondering if this is possible. Can I use this API https://developers.google.com/calendar/quickstart/python to scrape a specific calendar and print it to a website?
+ -
+
+Id 525 Politeness% 62 Size 1
+$ 62 Okay. Thanks @KU
+ -
+
+Id 570 Politeness% 45 Size 1
+$ 45 hello i'm 30 years old and do you have any prior programming/coding exprience?
+ -
+
+Id 576 Politeness% 55 Size 2
+$ 44 hi i just joined the server i am a beginner someone can tell me when can i ask for help?
+$ 65 @arogya.Gurkha thank you
+ -
+
+Id 579 Politeness% 47 Size 1
+$ 47 Hello  could some one help me with djangoproject? I'm just start learning it and don't know  how to realize one feature
+ -
+
+Id 584 Politeness% 42 Size 1
+$ 42 Hi guys I need some help with SSL certificate verification on my EC2 instance running a discord bot. Can someone help?
+ -
+
+Id 586 Politeness% 62 Size 1
+$ 62 Oh thanks
+ -
+
+Id 604 Politeness% 55 Size 1
+$ 55 Hi just a random question do you guys handle redirect on the frontend or backend usually? cuz framework on both frontend and backend seem to provide that kind of functionality what is the best practice?
+ -
+
+Id 607 Politeness% 43 Size 1
+$ 43 Hey guys is it just me? or are the help channels way less active since the way to use them changed?
+ -
+
+Id 624 Politeness% 42 Size 1
+$ 42 Hey guys,where can i go to get generalized help?I cant seem to find the channel specifically for my problem.
+ -
+
+Id 625 Politeness% 85 Size 1
+$ 85 hey my computers teacher assigned us a mini course on python and im pretty sure the python being taught is outdated and kind of weird.. i would appreciate if anybody could help me figure this outthe prompt:A New York pizza restaurant will only deliver to addresses between 1st street and 46th street. Given a customer\'s `address` as a string print `True` if the restaurant will deliver to the address and `False `otherwise.so i just wrote ```pythonprint("1st Street <= address <= 
+46th street")```doesn\'t work. any ideas? would greatly appreciate itedit: address is ```python  35th street"```
+ -
+
+Id 634 Politeness% 40 Size 1
+$ 40 Hey uh is it against the rules to offer money for someone solving a programming issue
+ -
+
+Id 640 Politeness% 48 Size 1
+$ 48 Hello do you know why my Pycharm theme looks like that after a new update ???
+ -
+
+Id 646 Politeness% 43 Size 1
+$ 43 hey can someone help me
+ -
+
+Id 652 Politeness% 48 Size 1
+$ 48 Hi Not sure this is the right place but  I am using Python in VSCode
+ -
+
+Id 667 Politeness% 42 Size 3
+$ 42 Hello i have error when i want install :"pip install pycrypto
+$ 62 Thanks
+$ 23 kk ty
+ -
+
+Id 668 Politeness% 62 Size 1
+$ 62 got it thanks
+ -
+
+Id 676 Politeness% 58 Size 1
+$ 58 Hello so I'm writing a program that stores the users details and adds it to a dictionary. However I am having trouble calling the whole dictionary any chance I can post the code and someone can take a look. I'm quite new to programming so its probably quite easy to solve.
+ -
+
+Id 678 Politeness% 40 Size 1
+$ 40 > Hey would anyone be interested in going through MIT 6.034 OCW course? its an AI course in python@obedience school dropout sure sign me in
+ -
+
+Id 684 Politeness% 56 Size 1
+$ 56 hi everyone! i have a little petition if anyone could explain how does the map() function work? i've been struggling with all the explanations onlinethe examples are too unclear
+ -
+
+Id 685 Politeness% 55 Size 4
+$ 48 Hello I'm currently learning Python and the topic I'm learning about is testing. I wrote an Employee class that takes in a first name last name and salary. When I tried testing it the command terminal said ran 0 tests in 0.000 seconds. Could someone help me with this problem?import unittestfrom Employee_Class import Employeeclass EmployeeCase(unittest.TestCase): def setUp(self): self.new_employee = Employee('Alex Varghese 75000) def default_salary(self): self.assertEqual(self.new_employee.annual_salary 75000)if __name__ == __main__': unittest.main()
+$ 24 > I want to access para variable outside constructor how do i do that?@theaafofficial anyone?
+$ 65 @Infinimata Thank you so much it worked!
+$ 62 Thanks
+ -
+
+Id 698 Politeness% 49 Size 2
+$ 43 Hi does anyone know if VScode has implemented remote code over ssh yet?
+$ 55 Great thx
+ -
+
+Id 699 Politeness% 43 Size 1
+$ 43 Hello! Is this the general chat?
+ -
+
+Id 705 Politeness% 65 Size 1
+$ 65 @BigBellyBigDreams interesting ideas in that video thanks.
+ -
+
+Id 709 Politeness% 65 Size 1
+$ 65 ahh thank you
+ -
+
+Id 715 Politeness% 55 Size 2
+$ 48 hi guys i need some help. Say i have a CSV file with a column of countries(with many variables several rows have similar countries). i want a loop to go through every country and extract the data. any ideas?
+$ 62 @DeaD_EyE Thanks!
+ -
+
+Id 717 Politeness% 45 Size 1
+$ 45 Hello guys I'm completely new to this channel and to Python too. What is the text channel I should use to get help? I have a little problem going on
+ -
+
+Id 726 Politeness% 52 Size 1
+$ 52 hi i just learned print function if then statements little for loops and little lists what should i learn next?
+ -
+
+Id 732 Politeness% 62 Size 1
+$ 62 thanks ill post it there
+ -
+
+Id 751 Politeness% 60 Size 1
+$ 60 Hi guys I am new to python and relatively new to programming.... I have a question / scenario hoping you could help me understand: I want my script to run every second...but I have some functions within that script that I only want run every minute. Is that possible to accomplish?
+ -
+
+Id 773 Politeness% 44 Size 1
+$ 44 Hello! Where do I ask questions about `faust`?
+ -
+
+Id 776 Politeness% 44 Size 1
+$ 44 hey i am done with python upto intermediate level so now can i get into learning data science?
+ -
+
+Id 781 Politeness% 42 Size 1
+$ 42 Hey can somebody help me with my python errors ?
+ -
+
+Id 792 Politeness% 42 Size 2
+$ 18 in what channel i need to write if i need help with python turtle?
+$ 65 thank you
+ -
+
+Id 793 Politeness% 44 Size 1
+$ 44 hey guys where can i get help for my GUI application
+ -

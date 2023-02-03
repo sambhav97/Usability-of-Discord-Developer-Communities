@@ -1,0 +1,660 @@
+Id 1 Politeness% 23 Size 119
+$ 28 I was confused bc the logo and now im like youre so fucking amazing LMAO
+$ 21 the logo hurts
+$ 19 Is doing for loops functions and etc really what softwares and games use It feels like theres something else thats more important about python that makes these things work maybe its because I watch to many movies where programming is like the matrix and its not realistic at all xD not implying I expect it to be that I dont I love coding
+$ 23 ohhhhh social distancing lmao
+$ 27 I first thought they added a third snake
+$ 23 Lol
+$ 18 Why can I not talk in the off topic channels
+$ 23 Gotta wash your hands in botcommands
+$ 23 see announcements
+$ 24 ah I gotcha
+$ 23 gdude is that also just meme or
+$ 23
+$ 23 Its for your own safety
+$ 23 its not a laughing matter
+$ 21 and nor is the topic of this channel D
+$ 26 is OSError the exception to raise when my program isnt running on an OS im able to support
+$ 32 id probably opt for NotImplementedError
+$ 24 i considered that too but im not really sure on which one might be best
+$ 24 OSError is stuff like we connection dropped or DNS failed or shit like that
+$ 21 yeah OSErrors wrap errors returned by the OS
+$ 27 yeah i thought so
+$ 16 As its actually the OS in some other later handling things like connections and such its whats raised when things go wrong with that
+$ 26 thats why it didnt feel right going for that
+$ 21 so then is NotImplementedError the way to go
+$ 26 Considering what the subexceptions of OSError are and that it was mostly synonymous with IOError Id definitely go for the NotImplementedError or something like that
+$ 23 yup got it tyvm guys D
+$ 21 ZE FUCK
+$ 23 announcements
+$ 21 O O IM ZA BIG MONSTER IIII
+$ 26 oops
+$ 21 epic fail
+$ 23 This isnt a meme corner
+$ 23 uh ok
+$ 24 im too idiot
+$ 25 Super accesses the superclass from the subclass
+$ 26 damn so much for that factory think im just going to rewrite the entire thing from the ground up and if it still doesnt work its not meant to
+$ 26 I used to use C
+$ 21 and in C there are these things called namespaces
+$ 25 Looks like the snakes pulled out the divorce papers
+$ 24 they are real ive used them python has them too
+$ 28 I mean like a namespace in C is a collection of variables
+$ 23 zen namespaces
+$ 23 None
+$ 23 go wash your hands first
+$ 24 but explicit namespaces dont exist not like in C so I decided to make one
+$ 30 I know that classes can be used but using classes seems kinda off to me not gonna lie
+$ 29 Using functions seems more of the way to go
+$ 21 You can use SimpleNamespace from types which is a simple class with some added convenience if you just want a namespace
+$ 23 oh
+$ 23 httpsrepliteidhernanAlternativestoNamespacesinPython
+$ 21 the snakes are apart because of the virus
+$ 23 nc
+$ 23 Is it necessary to have explicit namespaces when you have modules
+$ 27 i suck at python the best thing i made was litterally a snake game and a pong game
+$ 23 with pygame
+$ 21 and snake with turtle
+$ 25 i recently deted my discord bot by in vs code clicking the wrong dir
+$ 28 mostly my fault
+$ 24  my fault
+$ 25 Its just a way of making inner functions visible I guess
+$ 21 ruby on rails sucks
+$ 25 django is better
+$ 23 no jk
+$ 21 but yeah in  of python scripts youll have one small entrypoint and then definitions with imports in your modules
+$ 23 python is just import the module and use its functions lmaooo
+$ 23 import minecraft
+$ 23 remove that bracket
+$ 23 it was an accident lmao
+$ 23 minecraft
+$ 23 lol jk no
+$ 23 learning python on sololearn now on functions and modules Already learned Basic Concepts and Control Structures
+$ 23 Is there a way to run a function at all times while flask isnt making a request
+$ 23 use sanic
+$ 21 and then you can easily do that with asyncio
+$ 23 Ok
+$ 23 sanic would be replacement of flask tho
+$ 23 ofc
+$ 29 Shouldnt take long tho lol
+$ 23 its similar
+$ 21 but flask has more extension packages
+$ 23 ofc
+$ 23 Ah yeah
+$ 43 hey
+$ 23 is there any way to make a discrete range
+$ 26 oops
+$ 26 i mean not discrete
+$ 23 a continuous range
+$ 23 without external libraries
+$ 25 like for example from  to  bur continuous
+$ 23 yes
+$ 15 but what would go after
+$ 26 do you mean something like linspace where you also specify number of elements
+$ 28 I have tried doing the  but it doesnt work when the range of values isnt continuous
+$ 23 basically a number line where every coordinate along the line has a value associated with it
+$ 21 but there are infinite numbers between two points
+$ 25 Any good intermediate python game project ideas that take  month
+$ 23 yes
+$ 24 you should be able to chain comparison operators if you only want to check some numbers
+$ 24 i want to be able to basically say if the value falls on these segments do this
+$ 21 but
+$ 26 i cannot know how many separate line segments there are
+$ 30 i could have just one interval of all the same value or i can have multiple like  then  then
+$ 33 can you create linspace of high number of elements
+$ 23 is linspace from an external library
+$ 23 numpy
+$ 23 cant use that
+$ 23 pythonfor lowerbound upperbound in segments assert lowerbound  number  upperbound
+$ 19 you can implement it yourself likedef linspacea b n step  b  a  n return rangea b step
+$ 17 why is off topic blocked
+$ 23 where a is start of range b end of range and n is number of points between a and b
+$ 30 Should I start learning python with pythonorg
+$ 23
+$ 23 account wash your hands washed
+$ 21 the tutorial in the docs is not a bad place to start with
+$ 23 alright ty
+$ 23 wait
+$ 23 is windows vista newer than xp
+$ 30 I thought you could upgrade to win at least for free if you are on vista
+$ 29 apparently only in
+ -
+
+Id 3 Politeness% 24 Size 9
+$ 28 I can use sanic with postman right
+$ 25 no good
+$ 24 Can I run python  on it
+$ 24 Can I ask a quick question
+$ 23 ask
+$ 23 None
+$ 34 im trying to convert a python script to an executable using autopytoexe everything seems to download fine however when i run the exe this shows upTraceback most recent call last File sweepspy line  in module File CUsersuserAppDataLocalProgramsPythonPythonlibsitepackagespyinstallerpyeggPyInstallerloaderpyimodimporterspy line  in execmodule execbytecode moduledict File sitepackagesscipyinterpolateinitpy line  in module from interpolate import  File CUsersuserAppDataLocalProgramsPythonPythonlibsitepackagespyinstallerpyeggPyInstallerloaderpyimodimporterspy line  in execmodule execbytecode moduledict File sitepackagesscipyinterpolateinterpolatepy line  in module import scipyspecial as spec File CUsersuserAppDataLocalProgramsPythonPythonlibsitepackagespyinstallerpyeggPyInstallerloaderpyimodimporterspy line  in execmodule execbytecode moduledict File sitepackagesscipyspecialinitpy line  in module from  import ufuncsImportError DLL load failed The specified module could not be found Failed to execute script sweeps
+$ 13 its kinda urgent because i need this for some workrelated stuff and i really dont know what to do
+$ 23 the dll files are in the directory but it doesnt seem to recognize it
+ -
+
+Id 5 Politeness% 23 Size 117
+$ 25 typingNamedTuple doesnt support mixins
+$ 23 Something about the logo looks different
+$ 22 but I cant seem to figure out what exactly
+$ 23 announcements
+$ 23 oh
+$ 17 wait what
+$ 24 we doing virtual social distancin now
+$ 23 yes
+$ 23 is that needed though
+$ 23 will that help
+$ 23 no its a meme
+$ 21 and offtopic
+$ 23 bruh
+$ 26 I am extreme surprised that this doesnt workpythonfrom typing import NamedTupleclass Mixin def printnameself printselfclassnameclass CustomTupleMixin NamedTuple a int b int CustomTuple printname  AttributeError
+$ 23 nothn surprising here
+$ 23 its expected
+$ 17 hmm how so
+$ 21 no clue but if python says its an error its expected
+$ 25 there is no need to update from vista to  as vista is superior
+$ 23 jk dawg
+$ 23 no
+$ 23 u have an instance method
+$ 23 and ur calling it like a class method
+$ 23 hes not
+$ 24 yea Im making an instance
+$ 21 oh shit
+$ 25 ur right
+$ 23 lul
+$ 29 apparent NamedTuple just rewrites the class
+$ 23 welp back to DataClasses
+$ 23 named tuples arent needed brah
+$ 23 its
+$ 23 just use dataclass
+$ 21 and add methods to it
+$ 23 shmp try a metaclass instead
+$ 29 Might have something to do with the metaclass used for NamedTuple
+$ 16 if you really need the namedtuple monkeypatch it with the metaclass
+$ 26 dataclasses have their own funkiness like always needing the decorator but Im used to that now
+$ 15 whats the problem with decorators
+$ 24 we no javascript
+$ 23 thats a first class feature
+$ 23 decorators charge too much and their taste is yucky
+$ 26 like they put these brass sconces in my living room
+$ 25 they are beautiful
+$ 17 what do u mean charge too much
+$ 21 stupid pun never mind
+$ 23 always insist on curtains instead of blinds
+$ 26 I do and yet  sigh
+$ 25 amazing
+$ 21 at least this stupid factory produces goods now lol
+$ 26 ah shit its already almost pm guess im done for the night right as i get some type of output that isnt an error
+$ 23 done for the night
+$ 23 pm
+$ 23 bruh
+$ 23 bruh
+$ 21 alarm clock goes off in another  hours
+$ 19 you wake up at am
+$ 23 eeyow
+$ 23 are you a baker
+$ 26 i am a transportologist
+$ 23 technical term would be inpatient hospital transport
+$ 25 ah fair enough
+$ 55 good night
+$ 29 Baron X maybe put A B C and D in a list and divide by the sum of the list
+$ 32 that way when E comes around you can just append it to the list and your code will still work
+$ 23 Baron X horners method
+$ 22 its not exactly a sum though I was just doing shorthand unfortunately it is more complicated
+$ 72 trust me in another  days when the weekend rolls around  pm is right when the coding starts hitting peak performance thank you though
+$ 25 cant wait for the weekend as well
+$ 23 the actual equation is A  A  B   n
+$ 17 what is horners method
+$ 17 who knows
+$ 22 but that was a name that came to my mind
+$ 22 so i typed it
+$ 26 I will look it up
+$ 23 py A   B   C   l  A B C n   for n in l   n   for n in l   sumn   for n in l
+$ 32 that might inspire
+$ 23 a list comprehension
+$ 37 ive never done math at that complexity but maybe NumPy is something worth looking into i understand it being geared towards working with numbersmatricesmore 
+advanced math kinda stuff
+$ 29 I wouldnt use numpy until youre pretty sure you need it what youve described so far doesnt need it
+$ 23 juse use C
+$ 23 sounds like me and Pandas but thats a whole nother problem in itself
+$ 25 C is nice assembly not so much C is about as bare metal as ill willingly go
+$ 21 havent done C in decades dont miss it one bit
+$ 75 I copied that code and I will study it offby thank you  the other issue further is that the A B C  n are object attributes that might be included
+$ 23 no matter
+$ 23 same diff
+$ 23 just  l  objA objB objC instead
+$ 23 ooooh
+$ 25 thats very cool functionality
+$ 25 so the other problem that is probably worse
+$ 25 pretty much any programming language will do that
+$ 24 is that I also need to code B  ABCn  C  ABCn  D  ABCn n  ABCn somehow
+$ 30 I have no idea how I will accomplish that
+$ 24 no issue with decorators except when you have lots of them it looks pretty ugly
+$ 29 I am new to real coding so I feel like that is biting off a lot more than I can chew but since it can be described theoretically it should be able to be done but doing so with variables and a variable number of elements based on arguments entered
+$ 25 at the very least it will be a good learning experience trying to puzzle it out
+$ 23 each of those denominators is just the sum of a bunch of values
+$ 24  is that I also need to code B  ABCn  C  ABCn  D  ABCn n  ABCn somehowYou could have a list of An that you iterate through and apply this formula with       
+$ 23 pass a list into your decorator
+$ 21 so put the values in a list then call sum on that list
+$ 23 x  sumxs for x in xs ducky
+$ 24 offby in that code snippet you posted earlier would I not need the definitions of A B C if I used the objA list as you put above
+$ 26 well youd need values
+$ 27 but presumably you have them or can get them
+$ 23 those values would be pulled from attributes
+$ 22 so previously I was using an equation that only called for  objects
+$ 22 so I used self and other as args
+$ 22 but I want to be able to handle any number of args input if it is ever needed
+$ 23 since the equation doesnt change and it will save me a tooooon of space in terms of code
+$ 23 sure
+$ 28 I will have a look at how that works btw Bruh
+$ 19 you need to go off and sit under a tree for a while and study lists
+$ 24 hahah I will watch some videos
+$ 65 thank you
+$ 63 thank you for your advice offby I will study lists this evening I also remember seeing in my book about handling an unknown number of arguments so I will check what that was I think it was something to do with asterisks but I will check back
+$ 23 a string as a key
+ -
+
+Id 9 Politeness% 23 Size 105
+$ 23 lots of people
+$ 23 guys
+$ 21 fuck me
+$ 24 it took  seconds to finish running my function
+$ 23 jfl
+$ 21 Is it me or is the server icon broken
+$ 26 yeah i notice that too
+$ 27 sometimes it is invisible
+$ 23 the snakes are keeping a discreet distance
+$ 23 Could be social distancing or apirl fools Who knows
+$ 26 i have been practicing social distancing for years before the pandemic
+$ 23 check announcements
+$ 24 given that it says SOCIAL DISTANCE in giant letters Im guessing its social distancing
+$ 21 Apirl fool prank change server icon to have a false ping Drives people crazy
+$ 21 meanwhile normies are getting cabin fever from spending one weekend at home
+$ 23 None
+$ 21 give me a break
+$ 21 then ping  time
+$ 17 wait whats with the logo
+$ 23 OHHHHH
+$ 27 i need to create an app that will track where all covid patients in my area are located
+$ 23 SOCIAL DISTANCE
+$ 23 this
+$ 23
+$ 17 what
+$ 24 LMAO I JUST GOT Because the pythons are social distancing LOL
+$ 23 C LOOOO
+$ 26 I just got it too 
+$ 23 announcements
+$ 23 None
+$ 23 bruh
+$ 21 Is this a joke
+$ 19 you dont want to get coronavirus on your PC do you
+$ 25 wow
+$ 24 Deleted User I read ya loud n clear
+$ 24 No I dont definitely
+$ 26 Im a virgin now
+$ 28 I am clean
+$ 23 swaglemon
+$ 17 What happens with socket if you are sent a message but you arent listening
+$ 25 I think the sender gets a connection refused error
+$ 29 Also one more thing would it be possible to create a decentralized service with socket
+$ 21 So in this case each user is also the server
+$ 23  lol
+$ 23 mitzillfiTFTPOLICE are you ok
+$ 24 mitzillfiTFTPOLICE Lmao I just gotta screenshot that
+$ 29 yes thats possible jet
+$ 66 Ok thanks dennis Do I just make ever client a server as well
+$ 21 yeah so youd have to have one thread listen while another thread can send messageswhatever you want to send
+$ 29 yeah it shouldnt be too complexdifficult though
+$ 28 If I wanted to learn python should I continue reading the book Python Crash Course by Al Swiegert or should I read the Python Documentation
+$ 23 aero The Python docs arent a tutorial theyre for reference
+$ 25 Oh they had a Tutorial section i thought it was a guide
+$ 30 I come from a video editing background so Python is pretty different from what i know lol
+$ 27 The book youre using ought to serve well
+$ 28  i hope so so far its pretty good
+$ 27 generally though the official docs are where you go when you want to get the full skinny on a particular stdlib module or builtin
+$ 23 LOL
+$ 28 I love the new logo
+$ 26 I have question
+$ 26 I tried downloading
+$ 23 but it didnt work
+$ 23 gasps
+$ 23 said some dll file was missing
+$ 24 though it is on my windows vista
+$ 23 dont question it
+$ 33 can you download  on vista
+$ 32 it only says it doesnt work should the version be xp or earlier
+$ 22 and to my knowledge vista came later than xp
+$ 23 it did
+$ 24 lets say i have a bunch of points
+$ 21 you make a fine point
+$ 23 points
+$ 25 like
+$ 21 and they represent intervals
+$ 25 is there an easy way to check if they overlap and merge them
+$ 23 sets
+$ 23 they are not lists of points though
+$ 23 they each represent the start and the end
+$ 25 like  is the start  is the end then the next interval starts at  and ends in
+$ 21 so for  and   they overlap
+$ 23 Oh
+$ 22 so i want to eliminate them and have
+$ 26 i c
+$ 26 I would kinda just take the range of them then turn that into a set then just overlap them then take the lowest and largest
+$ 24 that is if I dont just use if the entire time
+$ 26 yeah i want to avoid if
+$ 23 and i thought of doing that method
+$ 17 How many points are you merging this way
+$ 23 thats the thing
+$ 23 it could be a lot
+$ 17 How many
+$ 27 i am not sure i am doing an assignment and the tester gives progressively bigger lists of values
+$ 25 like hundreds of values
+$ 21 Even the naive way of merging them with if tests could whip through that in a very short amount of time
+$ 23 yea
+$ 24 yeah i started writing if statements but it is so tedious i was thinking of doing ducks method if its not going to make the program run slow
+$ 23 Zenith Any Python object can be stored in a dictionary
+$ 23 oh okay ty
+$ 25 well
+$ 23 only hashable ones for key
+$ 23 s
+$ 21 Yes the keys have to be a hashable object but the value can be anything
+$ 23 yes
+$ 24 No I didnt understand why before but now I know
+ -
+
+Id 10 Politeness% 23 Size 95
+$ 24 Am I muted from ot channels
+$ 23 Ok
+$ 25 like pp
+$ 23 guide
+$ 23 dennis Yeah
+$ 26 idc if u screen shot it i just dont want to be banned
+$ 30 Im sorry that was pretty funny
+$ 30 Oh ok so I should learn multi threading
+$ 21 you dont need to get into anything like thread pools or whatnot
+$ 17 just how to start a thread
+$ 62 Nvm just realized Thanks dennis
+$ 21 no problem
+$ 43 hi
+$ 23
+$ 25 all hail  Marx  Lennon
+$ 26 Im a Groucho Marxist
+$ 18 Lol You noticed I actually chose this pfp because he looked cool
+$ 23 account your code snippet  are you asking why it does that
+$ 23 ok
+$ 21 so never do that  Use None
+$ 22 The first time I tried using list default args I was just warned by everyone
+$ 23 Yeah
+$ 23 Mutability lemonfingerguns
+$ 23 Mutability leads to suffering  The Buddha
+$ 31 I was warned by everyone but either a I wasnt told why or b I didnt listen most likely b
+$ 23 Dont run with scissors  Ur Mom
+$ 21 This particular quirk bit me hard at one point in the early stages of a project where the default arg setting was nondeterministic between runs
+$ 25 hmm nice python discussion going on here
+$ 26 I very quickly learned Not To Do That
+$ 23 Infinimata is that onmyoji arena
+$ 23 ur pfp
+$ 28 Zenith Just Onmyoji I like the game and the character designs
+$ 24 oo i see
+$ 29 also is it possible to
+$ 23 check
+$ 21 or lets say u had a dictionary key
+$ 23 of aaa
+$ 21 and bbb
+$ 29 is it possible to retrieve the closest match key
+$ 24 eg I want to type a and have it show the value of aaa
+$ 23 Dictionary keys are an allornothing match
+$ 28 I guess I have to loop through it and find the closest match
+$ 23 but I was thinking how would I do that
+$ 23 for key value in dictitems
+$ 21 or just for key in dict
+$ 33 I mean how abouts to do it   what method I should do to find closest match
+$ 23 That
+$ 21 Thats far more complex
+$ 32 It might be better to get an understanding of your use case
+$ 24 I smell an xy problem here
+$ 26 well basically I have something like this
+$ 26 I have a list of dogs stored in a dictionary
+$ 21 and their names
+$ 23 as their key
+$ 22 but I want them to be able to type
+$ 25 golden and show up golden retriever
+$ 23 as the key
+$ 23 etc
+$ 21  so never do that  Use Noneoffby where in that code do you mean use None
+$ 23 The simple solution would be to use a regular expression match and loop through the keys
+$ 27 As long as youre not dealing with too many keys at once it shouldnt be too slow
+$ 24  keys ish seems ok
+$ 25 hmm i guess ill test that then
+$ 62 thanks
+$ 32 Zenith There may be a more elegant solution in time but start with that and see how far it gets you
+$ 23 httpsdocspythonorglibrarydifflibhtmldifflibgetclosematches
+$ 26 Im looking some stuff up have u ever heard of this
+$ 30 seems to be something im looking for
+$ 26 That seems useful as long as the key list doesnt change much
+$ 26 hotcups I mean do it like this pydef showarg  None if arg is None arg   printarg return arg
+$ 25 thats different because each time the function runs it gets a fresh list
+$ 23 wheras the other way its always the same list
+$ 26 basically you run off a list of the keys once use that to match and any successful matches can just be used to pull values from the dict
+$ 21 a subtle annoyance
+$ 25 yep  perfect
+$ 23 imma try it out
+$ 18 I actually need to look into difflib for the sake of a project Im working on myself
+$ 26 well thats why I say its subtle
+$ 24 for now just do it my way
+$ 23 Any default arguments specified in a function are computed when the function is declared
+$ 23 as opposed to when the function is invoked
+$ 24 is it bad that i just found out about how modules work
+$ 25 Cortax Well your name indicates youre just starting so theres no shame in learning something for the first time
+$ 21 So
+$ 23 arg  None vs arg
+$ 21 a very indirect way of demonstrating the same thing py   True  is False
+$ 22 ok cause i keep importing discord and discord commands and didnt understand what i was doing untill now
+$ 21 whereas with None its initialised to nothing so everytime you pass a list to the function youre passing a new object
+$ 23 yes
+$ 21 And also because None is a singleton
+$ 23 its immutable
+$ 18 this behavior can be really useful when youre generating functions on the fly though and need to dynamically set a default value for the function
+$ 27 but on the whole any default value should be immutable
+$ 23 do any of yall know any online website with a python interpreter
+$ 23 guys
+ -
+
+Id 11 Politeness% 24 Size 1
+$ 24 can you store gifs in dictionaries actually
+ -
+
+Id 12 Politeness% 23 Size 27
+$ 24 offby um I dont follow how its different
+$ 30 I know your way works I dont understand why
+$ 23 which only happens once
+$ 18 how can i get maximum occuring thing from list
+$ 23 which happens lots of times
+$ 23 so hm in one case arg is initialised to a list when function is declared and like everything keeps getting appended to the same list as list is mutable      
+$ 23 mm yeah
+$ 29 py def foobars barsappendbar printbars  foobar foobar bar foobar bar baryeah you usually dont want this happening
+$ 25 very nice
+$ 23 hm yes
+$ 23 guys
+$ 23 that can use pip packages
+$ 20 ping me in your response please
+$ 23 Hii
+$ 25 Is jupyter notebook good for learning python
+$ 21 replit probs Try Hard McGee
+$ 23 Try Hard McGee replit has a package manager so you can install third party libs but I dont think you can use pip directly
+$ 55 nice timing
+$ 32   yeah its pretty nice to play around in though it is more used for teaching
+$ 23 sposker yeah very
+$ 24 Yeah I am learning it
+$ 25 So I think its good for me too
+$ 22 Also where can I ask my doubts about python  Do you guys help a newbie beginner in python here
+$ 23 all the time You can ask general questions about python in this channel and more specific questions involving your own code in the help channels
+$ 28 my brogram takes like  seconds
+$ 23 does anybody know a good place for a beginnermyself to practice various problems
+$ 23 httpsgithubcomikokkariPythonProblems
+ -
+
+Id 16 Politeness% 24 Size 8
+$ 22 I know the basics of the syntax and more but Im not really sure where to go from here What should I be doing
+$ 18 For me finding a project I was interested in really helped
+$ 17 It motivated me to actually sit down and code
+$ 25 The project doesnt even have to be useful it just has to be something fun
+$ 18 I dont really know how to apply my knowledge though
+$ 26  The project doesnt even have to be useful it just has to be something funThats something I havent done pithink
+$ 28 I have a question I would like to play music for a while  seconds and stop it I made this codet  son  pygamemixerSound  home  pi  Bureau  Prog  song  Normaloggsonplay timesleep tsonstop son  pygamemixerSound  home  pi  Downloads  manscreamingceedaysoundeffecthdoggsonplay  but the problem is that the code stops all actions to play music Which pygame command allows you to play music for a certain time
+$ 26 i need some help
+ -
+
+Id 17 Politeness% 23 Size 78
+$ 17 what to do
+$ 29 It is probably Desktop
+$ 25 Windows isnt case sensitive
+$ 22 BUt id just do mkdir Desktop
+$ 26 i set path to java
+$ 21 and this happend
+$ 25 run sfc scannow and dism online CleanupImage RestoreHealth as well
+$ 27 Its probably not needed but does not hurt either
+$ 20 but im unable to access
+$ 23 files on desktop
+$ 23
+$ 23 Have you checked hidden files
+$ 25 like
+$ 44 Hello I am korean
+$ 24 scorcher i tried to set path but the old path in my pc for system
+$ 23 dir AH
+$ 20 is gone in please it came javapath
+$ 23 it shows me this
+$ 23 None
+$ 17 now what to do
+$ 25 Looks like the desktop folder is gone
+$ 21 BUt this is more for deletedchannel than pythongeneral
+$ 23 somebody nl
+$ 26 i am searching for a python buddy
+$ 23 cavedude
+$ 25 There are a few people here from The Netherlands I think
+$ 25 okay nice
+$ 23 is there a nl channel
+$ 24 No we dont have languagespecific channels
+$ 33 okay can you make one thats easyer
+$ 23 Morning
+$ 55 good morning
+$ 26 i cant send otedisthestandardtexteditor
+$ 23 bruh
+$ 23 is this norm
+$ 24 No weve chosen to use English as main language for our server MartyBw
+$ 23 okay
+$ 24 No its because of our new COVID policy You can read about it in announcements Light
+$ 21 noise
+$ 23 MartyBw Hey buurman
+$ 23 heyyyy
+$ 23 nl
+$ 23 lekkahhhh
+$ 24 Sebastiaan so i cant send messages
+$ 23 MartyBw Nee duits
+$ 19 You can once you declare that youve washed your hands in botcommands
+$ 23 oh maar kan je wel nl
+$ 23 MartyBw Werkte in NL voor een paar maanden mijn nederlands is slecht
+$ 23 oh
+$ 23 maar ik vind dat je het wel heel goed kan hoor
+$ 25 can someone send me a good link to learn python
+$ 23 resources
+$ 23 None
+$ 26 I m completely newbut have learnt C
+$ 62 someonett thanks
+$ 23 scorcher kan ik je een vriendschapsverzoek sturen
+$ 28 i can learn you some things Rimu but i am not very good i can learn you the basics
+$ 20 MartyBw My dutch really isnt good enough
+$ 23 oof
+$ 24 can i sent you friendship
+$ 18 that what i meant
+$ 25 MartyBw Okay anything is good
+$ 55 nice
+$ 26 i m currently following CS dojo youtube
+$ 25 i cant learn you much but i can learn you some things about the turtle
+$ 22 but i go now
+$ 23 bye
+$ 17 Youtube really isnt a good source of information
+$ 15 That actually applies to most topics
+$ 23 MartyBw scorcher Okay
+$ 17 what do you mean by that
+$ 23 Callmedaddy Hmm
+$ 27 Im not talking to you Im talking to scorcher
+$ 25 I get ocd when my vs underlines my errors
+$ 23 help
+$ 23 Callmedaddy Ohh okay
+$ 36 I find it quite helpful when pycharm underlines any pep stuff or other things
+$ 55 Good reminder to help keeping the code clean
+ -
+
+Id 18 Politeness% 23 Size 55
+$ 15 Why would that be an issue
+$ 26 i tried to install discordpy pip installed it all fine but it wont let import it
+$ 28 i reinstalled python but it wont work
+$ 23 Do you have multiple version of Python installed Are you using an IDEeditor that uses virtual environments
+$ 17 How are you running your code
+$ 26 i uninstalled all versions
+$ 21 and installed only
+$ 26 i just used CMD to test
+$ 26 i have PyCharm
+$ 23 yeah dont use cmd
+$ 23 if you installed it with pycharm
+$ 24 it will most likely either have it as a venv or as its own local package
+$ 25 because pycharm is good like that
+$ 25 best thing would make a venv for the project
+$ 23 install discordpy
+$ 19 then use the venv terminal to test but then why bother when you could just make a test file rq
+$ 23 okay
+$ 27 Im so bored do you know some good free PyCharm courses always wanted to switch to that IDE
+$ 26 i just sorta hopped straight in with pycharm
+$ 25 its pretty easy to understand tbh
+$ 26 once youve installed it normally best to make a new project and keep stuff in seperate Venvs
+$ 24 then you can just run the file by right clicking and clicking run
+$ 23 but it has a lot of hidden features like the notebook support scientific mode and stuff thats not so self explanatory
+$ 23 tbf you dont rlly end up using that stuff much
+$ 22 or atleast in the time ive been using it
+$ 18 what i normally use with itProject managervenvsconsoleversion control and gitdebugging refractors etc
+$ 16 gotta say moving and building a discord bot with a webserver back end is actually really nice
+$ 25 life is just so so so much easier
+$ 21 that is a fat oof
+$ 19 Youve passed it a None where a numerical type was expected
+$ 17 why is not write
+$ 21 Thats hard for me to say
+$ 19 youll need to read that traceback
+$ 20 how do i install modules into py charm directly
+$ 25 like is there a way
+$ 23 ye
+$ 23 file  settings  interpreter settings  click the little  sign and it brings up a searchable modules list
+$ 27 It might break a few things though eg Pygame
+$ 21 havent had any issue installing pygame with pycharm
+$ 26 I think I saw someone ask about installing pygame in pycharm earlier and it failing
+$ 23 if its a  interpreter it does weirdness
+$ 21 but thats a general pygame installing thing
+$ 17 only thing it really doesnt like is trying to make a PyPy  venv
+$ 14 it really hates that
+$ 23 ooo
+$ 25 ty it worked
+$ 21 but it wont let me import discordpy
+$ 21 its just import discord
+$ 23 yeah
+$ 23 figured
+$ 23 Indexes start at
+$ 21 so you have items at   and
+$ 28 i like the social distancing logo
+$ 54 good to see that even pythons are helping to protect the vulnerable in our community
+$ 24 for me virtualenvwrapper makes it more enjoyable even since I also dont have to remember where I put the project on my hard drive it cd me there automatically
+ -
+
+Id 20 Politeness% 23 Size 12
+$ 23 Traceback most recent call last File generatetfrecordpy line  in module tfapprun File CUsersAdminanacondalibsitepackagestensorflowcorepythonplatformapppy line  in run runmainmain argvargv flagsparserparseflagstolerateundef File CUsersAdminanacondalibsitepackagesabslapppy line  in run runmainmain args File CUsersAdminanacondalibsitepackagesabslapppy line  in runmain sysexitmainargv File generatetfrecordpy line  in main tfexample  createtfexamplegroup path File generatetfrecordpy line  in createtfexample imageobjectclasslabel datasetutilintlistfeatureclasses File Eprojectmodelsresearchobjectdetectionutilsdatasetutilpy line  in intlistfeature return tftrainFeatureintlisttftrainIntListvaluevalueTypeError None has type NoneType but expected one of int long
+$ 23
+$ 23 gdude where
+$ 22 scorcher i have  issue plz help me
+$ 23 gdude plz help
+$ 24 can i get help
+$ 28 please
+$ 29 Deleted User Youre starting a console rather than running the file
+$ 20 Tims business partner Dont DM people for help please
+$ 23 Did you write this app
+$ 18 how i playing the file
+$ 23 Click the green button in the left margin
+ -
+ 
